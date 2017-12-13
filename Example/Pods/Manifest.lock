@@ -1,5 +1,5 @@
 PODS:
-  - FLNiceSpinner (0.1.0)
+  - FLNiceSpinner (0.0.1)
 
 DEPENDENCIES:
   - FLNiceSpinner (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FLNiceSpinner: d6b270ea815341f08d72bfcd438e14d441ac40c9
+  FLNiceSpinner: 82adcb48133a60e8a1c68801c41ce46faec11c88
 
 PODFILE CHECKSUM: bcccfda365cee04d10957efbb655d627d2ea7ac0
 
