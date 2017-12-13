@@ -1,0 +1,22 @@
+{
+  "name": "FLNiceSpinner",
+  "version": "0.1.0",
+  "summary": "A short description of FLNiceSpinner.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fengli12321@163.com/FLNiceSpinner",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fengli12321@163.com": "954751186@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/fengli12321@163.com/FLNiceSpinner.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FLNiceSpinner/Classes/**/*"
+}

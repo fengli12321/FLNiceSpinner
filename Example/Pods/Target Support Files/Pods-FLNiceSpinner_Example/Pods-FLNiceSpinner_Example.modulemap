@@ -1,0 +1,6 @@
+framework module Pods_FLNiceSpinner_Example {
+  umbrella header "Pods-FLNiceSpinner_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

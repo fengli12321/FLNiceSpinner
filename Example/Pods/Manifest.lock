@@ -1,0 +1,16 @@
+PODS:
+  - FLNiceSpinner (0.1.0)
+
+DEPENDENCIES:
+  - FLNiceSpinner (from `../`)
+
+EXTERNAL SOURCES:
+  FLNiceSpinner:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FLNiceSpinner: d6b270ea815341f08d72bfcd438e14d441ac40c9
+
+PODFILE CHECKSUM: bcccfda365cee04d10957efbb655d627d2ea7ac0
+
+COCOAPODS: 1.2.1

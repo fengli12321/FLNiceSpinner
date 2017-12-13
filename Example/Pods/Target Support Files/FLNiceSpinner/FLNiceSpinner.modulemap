@@ -1,0 +1,6 @@
+framework module FLNiceSpinner {
+  umbrella header "FLNiceSpinner-umbrella.h"
+
+  export *
+  module * { export * }
+}
