@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FLNiceSpinner_Example' do
+  pod 'FLNiceSpinner', :path => '../'
+
+  target 'FLNiceSpinner_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
