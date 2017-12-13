@@ -10,7 +10,7 @@
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 
-![2017-12-13 23.09.32.gif](../2017-12-13 23.09.32.gif)
+![2017-12-13 23.09.32.gif](https://github.com/fengli12321/FLNiceSpinner/blob/master/2017-12-13%2023.09.32.gif?raw=true)
 
 
 ##### 1.同步数据
