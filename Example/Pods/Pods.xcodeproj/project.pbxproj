@@ -39,13 +39,13 @@
 		1C41FEB2EFDF2FBF916DB189138155D0 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1EB9849F69A1889A5E96C39367580A69 /* FLNiceSpinner.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FLNiceSpinner.xcconfig; sourceTree = "<group>"; };
 		242DBEEF1BA0464BD564F7DA36AD4CF1 /* Pods-FLNiceSpinner_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FLNiceSpinner_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		3A6AA84B1A7EF4D24B57264472ED1E19 /* Pods-FLNiceSpinner_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-FLNiceSpinner_Tests.modulemap"; sourceTree = "<group>"; };
+		3A6AA84B1A7EF4D24B57264472ED1E19 /* Pods-FLNiceSpinner_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-FLNiceSpinner_Tests.modulemap"; sourceTree = "<group>"; };
 		3AFC7B45578278CCF78D433E80CAB2C7 /* Pods-FLNiceSpinner_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FLNiceSpinner_Example.release.xcconfig"; sourceTree = "<group>"; };
 		45CBF9E9D61703501BEA107506055E7D /* Pods-FLNiceSpinner_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-FLNiceSpinner_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		5E05B6AB6F522F555D7A20AD3F8F6A65 /* Pods-FLNiceSpinner_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FLNiceSpinner_Example-resources.sh"; sourceTree = "<group>"; };
-		5E270811CD812081C984BD018A0755AD /* FLNiceSpinner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FLNiceSpinner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E270811CD812081C984BD018A0755AD /* FLNiceSpinner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FLNiceSpinner.framework; path = FLNiceSpinner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F9C4CE34B7A7A59CA93C7C5AB37D0F1 /* Pods-FLNiceSpinner_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FLNiceSpinner_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		5FBD0D73D23C9B09872EE41CF68352C3 /* Pods_FLNiceSpinner_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FLNiceSpinner_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5FBD0D73D23C9B09872EE41CF68352C3 /* Pods_FLNiceSpinner_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_FLNiceSpinner_Tests.framework; path = "Pods-FLNiceSpinner_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6398724DC691B17042EAB265D319CE2D /* Pods-FLNiceSpinner_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FLNiceSpinner_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		64BABE3B5702D1EC3D7467E1D0E19A22 /* Pods-FLNiceSpinner_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FLNiceSpinner_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		6502F6677207E818D238D3E96E84C4CB /* Pods-FLNiceSpinner_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FLNiceSpinner_Tests-resources.sh"; sourceTree = "<group>"; };
@@ -54,17 +54,17 @@
 		83E4EA706BCD08B13E69C18CAD8949EC /* Pods-FLNiceSpinner_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FLNiceSpinner_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		84421F5B6FD668B3887EDC05AC407809 /* FLNiceSpinner.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = FLNiceSpinner.m; sourceTree = "<group>"; };
 		8B3B11BC6DFB3DB40837795BE83438D9 /* FLNiceSpinner.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; path = FLNiceSpinner.bundle; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9890FEBA27AED92C1ED4EB70B366ADEE /* FLNiceSpinner-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FLNiceSpinner-prefix.pch"; sourceTree = "<group>"; };
 		99C06B1B209CA23EC16EBF65CF890313 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/CoreGraphics.framework; sourceTree = DEVELOPER_DIR; };
 		9F948DD0029F70E80724294271B60D0C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A1845D33449487A9558C1E8EE4D8DA2E /* Pods-FLNiceSpinner_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FLNiceSpinner_Example-frameworks.sh"; sourceTree = "<group>"; };
 		A5224A726D9EABB2D5F18E4597390EF3 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		A72C15D97DAF514E62F3C154D467121E /* FLNiceSpinner.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = FLNiceSpinner.modulemap; sourceTree = "<group>"; };
+		A72C15D97DAF514E62F3C154D467121E /* FLNiceSpinner.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = FLNiceSpinner.modulemap; sourceTree = "<group>"; };
 		BECEC37B42A3CE325EEEBAA0A33B0E13 /* FLNiceSpinner.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FLNiceSpinner.h; sourceTree = "<group>"; };
 		BFDB36A64C70D7C7F8DFF4BE5C54B900 /* Pods-FLNiceSpinner_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FLNiceSpinner_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		C3C0589E5317EDA93CBD982F6C5EE9D9 /* Pods-FLNiceSpinner_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-FLNiceSpinner_Example.modulemap"; sourceTree = "<group>"; };
-		C97F2450AF60ADDB8DD3E82A64D0A638 /* Pods_FLNiceSpinner_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FLNiceSpinner_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C3C0589E5317EDA93CBD982F6C5EE9D9 /* Pods-FLNiceSpinner_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-FLNiceSpinner_Example.modulemap"; sourceTree = "<group>"; };
+		C97F2450AF60ADDB8DD3E82A64D0A638 /* Pods_FLNiceSpinner_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_FLNiceSpinner_Example.framework; path = "Pods-FLNiceSpinner_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE59B0D97841C2542CA3D20540685C26 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		D0BC307688F9CFA4BC3E6D28EBF2B5BF /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DECC419CE55C0C29D157C0C21B222CA9 /* Pods-FLNiceSpinner_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-FLNiceSpinner_Tests-dummy.m"; sourceTree = "<group>"; };
@@ -156,6 +156,7 @@
 			children = (
 				8B3B11BC6DFB3DB40837795BE83438D9 /* FLNiceSpinner.bundle */,
 			);
+			name = Assets;
 			path = Assets;
 			sourceTree = "<group>";
 		};
@@ -183,6 +184,7 @@
 			children = (
 				9955F2CB9BBAE204836928F6533D4D30 /* Classes */,
 			);
+			name = FLNiceSpinner;
 			path = FLNiceSpinner;
 			sourceTree = "<group>";
 		};
@@ -221,6 +223,7 @@
 				BECEC37B42A3CE325EEEBAA0A33B0E13 /* FLNiceSpinner.h */,
 				84421F5B6FD668B3887EDC05AC407809 /* FLNiceSpinner.m */,
 			);
+			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -247,6 +250,7 @@
 			children = (
 				3F0D61D2A4A02E25FDA271F28C725A19 /* Assets */,
 			);
+			name = FLNiceSpinner;
 			path = FLNiceSpinner;
 			sourceTree = "<group>";
 		};
@@ -351,7 +355,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0920;
+				LastUpgradeCheck = 0700;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -467,9 +471,7 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
@@ -477,20 +479,14 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
-				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"POD_CONFIGURATION_RELEASE=1",
 					"$(inherited)",
@@ -691,9 +687,7 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
@@ -701,21 +695,15 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = NO;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
-				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"POD_CONFIGURATION_DEBUG=1",
