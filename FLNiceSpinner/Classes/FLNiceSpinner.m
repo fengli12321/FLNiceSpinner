@@ -125,13 +125,33 @@
     [self setContentHorizontalAlignment:UIControlContentHorizontalAlignmentLeft];
     
     self.unfoldImage = [[UIImageView alloc] init];
-    self.unfoldImage.image = [UIImage imageNamed:@"fl_spinner_icon"];
+    self.unfoldImage.image = [self imageNamedFromMyBundle:@"fl_spinner_icon"];;
     [self.unfoldImage setContentMode:UIViewContentModeScaleAspectFit];
     [self addSubview:self.unfoldImage];
     
     // 菊花转
     self.indicatorView = [[UIActivityIndicatorView alloc] initWithActivityIndicatorStyle:UIActivityIndicatorViewStyleGray];
     [self addSubview:self.indicatorView];
+}
+
+- (UIImage *)imageNamedFromMyBundle:(NSString *)name {
+    NSBundle *imageBundle = [self tz_imagePickerBundle];
+    name = [name stringByAppendingString:@"@2x"];
+    NSString *imagePath = [imageBundle pathForResource:name ofType:@"png"];
+    UIImage *image = [UIImage imageWithContentsOfFile:imagePath];
+    if (!image) {
+        // 兼容业务方自己设置图片的方式
+        name = [name stringByReplacingOccurrencesOfString:@"@2x" withString:@""];
+        image = [UIImage imageNamed:name];
+    }
+    return image;
+}
+
+- (NSBundle *)tz_imagePickerBundle {
+    NSBundle *bundle = [NSBundle bundleForClass:[FLNiceSpinner class]];
+    NSURL *url = [bundle URLForResource:@"FLNiceSpinner" withExtension:@"bundle"];
+    bundle = [NSBundle bundleWithURL:url];
+    return bundle;
 }
 #pragma mark - private
 

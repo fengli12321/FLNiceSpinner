@@ -17,8 +17,9 @@
   },
   "source_files": [
     "FLNiceSpinner",
-    "FLNiceSpinner/**/*"
+    "FLNiceSpinner/**/*.{h,m}"
   ],
+  "resources": "FLNiceSpinner/**/*.bundle",
   "frameworks": [
     "Foundation",
     "CoreGraphics",

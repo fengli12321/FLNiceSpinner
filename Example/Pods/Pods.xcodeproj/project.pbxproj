@@ -8,20 +8,19 @@
 
 /* Begin PBXBuildFile section */
 		0EBEB7CE16536F5A5CB8DADF12B61A02 /* Pods-FLNiceSpinner_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1710B61FA25472F40113DF557D0DA5D5 /* Pods-FLNiceSpinner_Example-dummy.m */; };
-		17B5413287DEE8123B9815B9CE07F72D /* FLNiceSpinner.m in Sources */ = {isa = PBXBuildFile; fileRef = C3A5422333BD132CC2240582BFF6F473 /* FLNiceSpinner.m */; };
-		47A498705C3EFA41507DBA94DC21A5F9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A5224A726D9EABB2D5F18E4597390EF3 /* UIKit.framework */; };
-		558C13087EDAE5C336A2F7620BAEAC73 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE59B0D97841C2542CA3D20540685C26 /* Foundation.framework */; };
+		3457AD57AF993BD2DEFE167D07AEDC34 /* FLNiceSpinner-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AF53D15BDC36990B2A965F2B256A153 /* FLNiceSpinner-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5DF32B67529B2041A2AB9714037E394B /* FLNiceSpinner.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 8B3B11BC6DFB3DB40837795BE83438D9 /* FLNiceSpinner.bundle */; };
 		624833AC6AF7168531EEAF12179B16E0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE59B0D97841C2542CA3D20540685C26 /* Foundation.framework */; };
 		67E29A8540BD40B7CF742B0129368FAF /* Pods-FLNiceSpinner_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 02F9440998F101406080CA18B22AE396 /* Pods-FLNiceSpinner_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		684B6782B88E124262D7BC2A7CC6EB67 /* Pods-FLNiceSpinner_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DECC419CE55C0C29D157C0C21B222CA9 /* Pods-FLNiceSpinner_Tests-dummy.m */; };
 		74E1D729690FCFD20936FC49F6E4F113 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE59B0D97841C2542CA3D20540685C26 /* Foundation.framework */; };
-		883EF855D2AF8F87597F3C8D384C4872 /* FLNiceSpinner-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A5704B231905A970B8D2EC64D71CFF4F /* FLNiceSpinner-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		885301F558AF28FF3663E4C6C86CAA8F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 99C06B1B209CA23EC16EBF65CF890313 /* CoreGraphics.framework */; };
-		B0A71E03164E1D8EBF790E41A06B7DD9 /* FLNiceSpinner-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C63D4FD967102180214D2AEB5C31CC1A /* FLNiceSpinner-dummy.m */; };
-		C49A3DC67961E35772EC48EC2AAC54E2 /* FLNiceSpinner.h in Headers */ = {isa = PBXBuildFile; fileRef = 124284E649B8896D04DC3F5CD45DE3D5 /* FLNiceSpinner.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		95AA0995EF217A0FE50EE803A8D0E58D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE59B0D97841C2542CA3D20540685C26 /* Foundation.framework */; };
+		B2A67A8E126475BD64DC932E5F2AF91F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 99C06B1B209CA23EC16EBF65CF890313 /* CoreGraphics.framework */; };
+		C4D80EB3FB7D03387910243990408F8B /* FLNiceSpinner.h in Headers */ = {isa = PBXBuildFile; fileRef = BECEC37B42A3CE325EEEBAA0A33B0E13 /* FLNiceSpinner.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C58C38B7F669DC021924FF4EE7507AC6 /* Pods-FLNiceSpinner_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F286247D5B04C80A5AFADE71B454F243 /* Pods-FLNiceSpinner_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CA88D862F21FEBBD682F6C4CC73D767C /* fl_spinner_icon@3x.png in Sources */ = {isa = PBXBuildFile; fileRef = 70B5890058480C8B684EEE53FEA3D6D5 /* fl_spinner_icon@3x.png */; };
-		E492EE11AE8903A7428F1831D92322B3 /* fl_spinner_icon@2x.png in Sources */ = {isa = PBXBuildFile; fileRef = F9AE2512052D7E62B24C4673738EF39B /* fl_spinner_icon@2x.png */; };
+		CD0762D1A231A1C8F027EB6C5149D805 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A5224A726D9EABB2D5F18E4597390EF3 /* UIKit.framework */; };
+		D83B6D72DDE60EF2B46E9B20F252EFD4 /* FLNiceSpinner-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B7F3460A86F4D40404E1385C3D75257 /* FLNiceSpinner-dummy.m */; };
+		FF1A992999A16057F144427819D5D667 /* FLNiceSpinner.m in Sources */ = {isa = PBXBuildFile; fileRef = 84421F5B6FD668B3887EDC05AC407809 /* FLNiceSpinner.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,49 +28,48 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 993E0342CAC18A97306B7F9F1FB5C1A4;
+			remoteGlobalIDString = F7E608BED3F3AF375564DE1E1163B43F;
 			remoteInfo = FLNiceSpinner;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		02F9440998F101406080CA18B22AE396 /* Pods-FLNiceSpinner_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FLNiceSpinner_Example-umbrella.h"; sourceTree = "<group>"; };
-		124284E649B8896D04DC3F5CD45DE3D5 /* FLNiceSpinner.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FLNiceSpinner.h; sourceTree = "<group>"; };
 		1710B61FA25472F40113DF557D0DA5D5 /* Pods-FLNiceSpinner_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-FLNiceSpinner_Example-dummy.m"; sourceTree = "<group>"; };
 		1C41FEB2EFDF2FBF916DB189138155D0 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1EB9849F69A1889A5E96C39367580A69 /* FLNiceSpinner.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FLNiceSpinner.xcconfig; sourceTree = "<group>"; };
 		242DBEEF1BA0464BD564F7DA36AD4CF1 /* Pods-FLNiceSpinner_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FLNiceSpinner_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		3A6AA84B1A7EF4D24B57264472ED1E19 /* Pods-FLNiceSpinner_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-FLNiceSpinner_Tests.modulemap"; sourceTree = "<group>"; };
+		3A6AA84B1A7EF4D24B57264472ED1E19 /* Pods-FLNiceSpinner_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-FLNiceSpinner_Tests.modulemap"; sourceTree = "<group>"; };
 		3AFC7B45578278CCF78D433E80CAB2C7 /* Pods-FLNiceSpinner_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FLNiceSpinner_Example.release.xcconfig"; sourceTree = "<group>"; };
 		45CBF9E9D61703501BEA107506055E7D /* Pods-FLNiceSpinner_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-FLNiceSpinner_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		5E05B6AB6F522F555D7A20AD3F8F6A65 /* Pods-FLNiceSpinner_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FLNiceSpinner_Example-resources.sh"; sourceTree = "<group>"; };
-		5E270811CD812081C984BD018A0755AD /* FLNiceSpinner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FLNiceSpinner.framework; path = FLNiceSpinner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E270811CD812081C984BD018A0755AD /* FLNiceSpinner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FLNiceSpinner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F9C4CE34B7A7A59CA93C7C5AB37D0F1 /* Pods-FLNiceSpinner_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FLNiceSpinner_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		5FBD0D73D23C9B09872EE41CF68352C3 /* Pods_FLNiceSpinner_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_FLNiceSpinner_Tests.framework; path = "Pods-FLNiceSpinner_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5FBD0D73D23C9B09872EE41CF68352C3 /* Pods_FLNiceSpinner_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FLNiceSpinner_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6398724DC691B17042EAB265D319CE2D /* Pods-FLNiceSpinner_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FLNiceSpinner_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		64BABE3B5702D1EC3D7467E1D0E19A22 /* Pods-FLNiceSpinner_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FLNiceSpinner_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		6502F6677207E818D238D3E96E84C4CB /* Pods-FLNiceSpinner_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FLNiceSpinner_Tests-resources.sh"; sourceTree = "<group>"; };
-		70B5890058480C8B684EEE53FEA3D6D5 /* fl_spinner_icon@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "fl_spinner_icon@3x.png"; sourceTree = "<group>"; };
+		6B7F3460A86F4D40404E1385C3D75257 /* FLNiceSpinner-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FLNiceSpinner-dummy.m"; sourceTree = "<group>"; };
+		7AF53D15BDC36990B2A965F2B256A153 /* FLNiceSpinner-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FLNiceSpinner-umbrella.h"; sourceTree = "<group>"; };
 		83E4EA706BCD08B13E69C18CAD8949EC /* Pods-FLNiceSpinner_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FLNiceSpinner_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		929E4FDC2B14342219364BEA423DD278 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		84421F5B6FD668B3887EDC05AC407809 /* FLNiceSpinner.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = FLNiceSpinner.m; sourceTree = "<group>"; };
+		8B3B11BC6DFB3DB40837795BE83438D9 /* FLNiceSpinner.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; path = FLNiceSpinner.bundle; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9890FEBA27AED92C1ED4EB70B366ADEE /* FLNiceSpinner-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FLNiceSpinner-prefix.pch"; sourceTree = "<group>"; };
 		99C06B1B209CA23EC16EBF65CF890313 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/CoreGraphics.framework; sourceTree = DEVELOPER_DIR; };
 		9F948DD0029F70E80724294271B60D0C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A1845D33449487A9558C1E8EE4D8DA2E /* Pods-FLNiceSpinner_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FLNiceSpinner_Example-frameworks.sh"; sourceTree = "<group>"; };
 		A5224A726D9EABB2D5F18E4597390EF3 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		A5704B231905A970B8D2EC64D71CFF4F /* FLNiceSpinner-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FLNiceSpinner-umbrella.h"; sourceTree = "<group>"; };
-		A873EC324699405F22C491523DFF8F62 /* FLNiceSpinner.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FLNiceSpinner.xcconfig; sourceTree = "<group>"; };
+		A72C15D97DAF514E62F3C154D467121E /* FLNiceSpinner.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = FLNiceSpinner.modulemap; sourceTree = "<group>"; };
+		BECEC37B42A3CE325EEEBAA0A33B0E13 /* FLNiceSpinner.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FLNiceSpinner.h; sourceTree = "<group>"; };
 		BFDB36A64C70D7C7F8DFF4BE5C54B900 /* Pods-FLNiceSpinner_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FLNiceSpinner_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		C3A5422333BD132CC2240582BFF6F473 /* FLNiceSpinner.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = FLNiceSpinner.m; sourceTree = "<group>"; };
-		C3C0589E5317EDA93CBD982F6C5EE9D9 /* Pods-FLNiceSpinner_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-FLNiceSpinner_Example.modulemap"; sourceTree = "<group>"; };
-		C63D4FD967102180214D2AEB5C31CC1A /* FLNiceSpinner-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FLNiceSpinner-dummy.m"; sourceTree = "<group>"; };
-		C97F2450AF60ADDB8DD3E82A64D0A638 /* Pods_FLNiceSpinner_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_FLNiceSpinner_Example.framework; path = "Pods-FLNiceSpinner_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C3C0589E5317EDA93CBD982F6C5EE9D9 /* Pods-FLNiceSpinner_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-FLNiceSpinner_Example.modulemap"; sourceTree = "<group>"; };
+		C97F2450AF60ADDB8DD3E82A64D0A638 /* Pods_FLNiceSpinner_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FLNiceSpinner_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE59B0D97841C2542CA3D20540685C26 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		D47DD15C044087BDF1093D368043997A /* FLNiceSpinner-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FLNiceSpinner-prefix.pch"; sourceTree = "<group>"; };
+		D0BC307688F9CFA4BC3E6D28EBF2B5BF /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DECC419CE55C0C29D157C0C21B222CA9 /* Pods-FLNiceSpinner_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-FLNiceSpinner_Tests-dummy.m"; sourceTree = "<group>"; };
-		E1A458427BEA7730C3D5794C1A1BD9BA /* FLNiceSpinner.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = FLNiceSpinner.modulemap; sourceTree = "<group>"; };
 		EECC71410AED46A6BB4E862B966F2FC7 /* Pods-FLNiceSpinner_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-FLNiceSpinner_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		F286247D5B04C80A5AFADE71B454F243 /* Pods-FLNiceSpinner_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FLNiceSpinner_Tests-umbrella.h"; sourceTree = "<group>"; };
-		F9AE2512052D7E62B24C4673738EF39B /* fl_spinner_icon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "fl_spinner_icon@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,13 +81,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7064759635722EE6F2BB40160A70BABF /* Frameworks */ = {
+		58F85B3BAF51BD713B31CF5BAE80E63B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				885301F558AF28FF3663E4C6C86CAA8F /* CoreGraphics.framework in Frameworks */,
-				558C13087EDAE5C336A2F7620BAEAC73 /* Foundation.framework in Frameworks */,
-				47A498705C3EFA41507DBA94DC21A5F9 /* UIKit.framework in Frameworks */,
+				B2A67A8E126475BD64DC932E5F2AF91F /* CoreGraphics.framework in Frameworks */,
+				95AA0995EF217A0FE50EE803A8D0E58D /* Foundation.framework in Frameworks */,
+				CD0762D1A231A1C8F027EB6C5149D805 /* UIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -130,15 +128,18 @@
 			path = "Target Support Files/Pods-FLNiceSpinner_Tests";
 			sourceTree = "<group>";
 		};
-		2501ADB18B505BCD34C16132DAE84282 /* Classes */ = {
+		237CD4A445CA154655DA095416135AAE /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				124284E649B8896D04DC3F5CD45DE3D5 /* FLNiceSpinner.h */,
-				C3A5422333BD132CC2240582BFF6F473 /* FLNiceSpinner.m */,
-				5FFD2EDC749422704F63A87367587897 /* Resource */,
+				A72C15D97DAF514E62F3C154D467121E /* FLNiceSpinner.modulemap */,
+				1EB9849F69A1889A5E96C39367580A69 /* FLNiceSpinner.xcconfig */,
+				6B7F3460A86F4D40404E1385C3D75257 /* FLNiceSpinner-dummy.m */,
+				9890FEBA27AED92C1ED4EB70B366ADEE /* FLNiceSpinner-prefix.pch */,
+				7AF53D15BDC36990B2A965F2B256A153 /* FLNiceSpinner-umbrella.h */,
+				D0BC307688F9CFA4BC3E6D28EBF2B5BF /* Info.plist */,
 			);
-			name = Classes;
-			path = Classes;
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/FLNiceSpinner";
 			sourceTree = "<group>";
 		};
 		287B0F6E86167308275A35B890632EC5 /* Targets Support Files */ = {
@@ -150,44 +151,58 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		577189D083C0EB00E50C925AC23F3FFE /* FLNiceSpinner */ = {
+		3F0D61D2A4A02E25FDA271F28C725A19 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				5CD939CF9337DC264AF9B3C0D3E03AE0 /* FLNiceSpinner */,
-				F26A38FC5155D765EF0D90A7111FD214 /* Support Files */,
+				8B3B11BC6DFB3DB40837795BE83438D9 /* FLNiceSpinner.bundle */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		42CDB310F2473867202E1BD1A3CE2E0C /* FLNiceSpinner */ = {
+			isa = PBXGroup;
+			children = (
+				6C6748AD347A54408CBE10B287877AC4 /* FLNiceSpinner */,
+				8A6D0883299B302B191556FDD1E742E1 /* Resources */,
+				237CD4A445CA154655DA095416135AAE /* Support Files */,
 			);
 			name = FLNiceSpinner;
 			path = ../..;
 			sourceTree = "<group>";
 		};
-		5CD939CF9337DC264AF9B3C0D3E03AE0 /* FLNiceSpinner */ = {
+		609F153D69B9135CEE3907D81FA1A1F8 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				2501ADB18B505BCD34C16132DAE84282 /* Classes */,
+				42CDB310F2473867202E1BD1A3CE2E0C /* FLNiceSpinner */,
 			);
-			name = FLNiceSpinner;
-			path = FLNiceSpinner;
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		5FFD2EDC749422704F63A87367587897 /* Resource */ = {
+		6C6748AD347A54408CBE10B287877AC4 /* FLNiceSpinner */ = {
 			isa = PBXGroup;
 			children = (
-				F9AE2512052D7E62B24C4673738EF39B /* fl_spinner_icon@2x.png */,
-				70B5890058480C8B684EEE53FEA3D6D5 /* fl_spinner_icon@3x.png */,
+				9955F2CB9BBAE204836928F6533D4D30 /* Classes */,
 			);
-			name = Resource;
-			path = Resource;
+			path = FLNiceSpinner;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				F26B01F6C6B251CC229727D436F0F0B3 /* Development Pods */,
+				609F153D69B9135CEE3907D81FA1A1F8 /* Development Pods */,
 				122DA2E5084A4393C29BE363C764795C /* Frameworks */,
 				D6D9AEC0584BE5AB3F4FCFCC616C420E /* Products */,
 				287B0F6E86167308275A35B890632EC5 /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		8A6D0883299B302B191556FDD1E742E1 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				CF54C7857228F2BB6079D25D739961D4 /* FLNiceSpinner */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		93FD095B5FC2A2BCC81B8E3CFC167E67 /* iOS */ = {
@@ -198,6 +213,15 @@
 				A5224A726D9EABB2D5F18E4597390EF3 /* UIKit.framework */,
 			);
 			name = iOS;
+			sourceTree = "<group>";
+		};
+		9955F2CB9BBAE204836928F6533D4D30 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				BECEC37B42A3CE325EEEBAA0A33B0E13 /* FLNiceSpinner.h */,
+				84421F5B6FD668B3887EDC05AC407809 /* FLNiceSpinner.m */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		B4E305B1132700AA3B043447EBB8ED9E /* Pods-FLNiceSpinner_Example */ = {
@@ -218,6 +242,14 @@
 			path = "Target Support Files/Pods-FLNiceSpinner_Example";
 			sourceTree = "<group>";
 		};
+		CF54C7857228F2BB6079D25D739961D4 /* FLNiceSpinner */ = {
+			isa = PBXGroup;
+			children = (
+				3F0D61D2A4A02E25FDA271F28C725A19 /* Assets */,
+			);
+			path = FLNiceSpinner;
+			sourceTree = "<group>";
+		};
 		D6D9AEC0584BE5AB3F4FCFCC616C420E /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -226,28 +258,6 @@
 				5FBD0D73D23C9B09872EE41CF68352C3 /* Pods_FLNiceSpinner_Tests.framework */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		F26A38FC5155D765EF0D90A7111FD214 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				E1A458427BEA7730C3D5794C1A1BD9BA /* FLNiceSpinner.modulemap */,
-				A873EC324699405F22C491523DFF8F62 /* FLNiceSpinner.xcconfig */,
-				C63D4FD967102180214D2AEB5C31CC1A /* FLNiceSpinner-dummy.m */,
-				D47DD15C044087BDF1093D368043997A /* FLNiceSpinner-prefix.pch */,
-				A5704B231905A970B8D2EC64D71CFF4F /* FLNiceSpinner-umbrella.h */,
-				929E4FDC2B14342219364BEA423DD278 /* Info.plist */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/FLNiceSpinner";
-			sourceTree = "<group>";
-		};
-		F26B01F6C6B251CC229727D436F0F0B3 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				577189D083C0EB00E50C925AC23F3FFE /* FLNiceSpinner */,
-			);
-			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -261,20 +271,20 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9B3DAD3CBD03D987EB9434D218EA2B73 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				883EF855D2AF8F87597F3C8D384C4872 /* FLNiceSpinner-umbrella.h in Headers */,
-				C49A3DC67961E35772EC48EC2AAC54E2 /* FLNiceSpinner.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		C432FA4ECD410ACEE213F2A9640D3BDA /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				67E29A8540BD40B7CF742B0129368FAF /* Pods-FLNiceSpinner_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DB9182F5F94AB241A379BF6D89E32E7B /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3457AD57AF993BD2DEFE167D07AEDC34 /* FLNiceSpinner-umbrella.h in Headers */,
+				C4D80EB3FB7D03387910243990408F8B /* FLNiceSpinner.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,23 +309,6 @@
 			productReference = C97F2450AF60ADDB8DD3E82A64D0A638 /* Pods_FLNiceSpinner_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		993E0342CAC18A97306B7F9F1FB5C1A4 /* FLNiceSpinner */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 6F9CAE9B3EE0C8731000ED2CBE79A0BC /* Build configuration list for PBXNativeTarget "FLNiceSpinner" */;
-			buildPhases = (
-				E461C36B8CEEFC3ED9A1CFC1ECFEAC82 /* Sources */,
-				7064759635722EE6F2BB40160A70BABF /* Frameworks */,
-				9B3DAD3CBD03D987EB9434D218EA2B73 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = FLNiceSpinner;
-			productName = FLNiceSpinner;
-			productReference = 5E270811CD812081C984BD018A0755AD /* FLNiceSpinner.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 		CBA3DCAF241B6B82AB9EBD6CE2F7ECF7 /* Pods-FLNiceSpinner_Tests */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 986A9BA58AFE703EEE004FBCA2C407AF /* Build configuration list for PBXNativeTarget "Pods-FLNiceSpinner_Tests" */;
@@ -333,6 +326,24 @@
 			productReference = 5FBD0D73D23C9B09872EE41CF68352C3 /* Pods_FLNiceSpinner_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
+		F7E608BED3F3AF375564DE1E1163B43F /* FLNiceSpinner */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EA4320072A3765F75AA27593B168EB8D /* Build configuration list for PBXNativeTarget "FLNiceSpinner" */;
+			buildPhases = (
+				132FE6A20B3E85AE3CCE5D0050F7FC17 /* Sources */,
+				58F85B3BAF51BD713B31CF5BAE80E63B /* Frameworks */,
+				DB9182F5F94AB241A379BF6D89E32E7B /* Headers */,
+				5644B302890A0E8034D495DD48B9F082 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FLNiceSpinner;
+			productName = FLNiceSpinner;
+			productReference = 5E270811CD812081C984BD018A0755AD /* FLNiceSpinner.framework */;
+			productType = "com.apple.product-type.framework";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -340,7 +351,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0700;
+				LastUpgradeCheck = 0920;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -354,14 +365,34 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				993E0342CAC18A97306B7F9F1FB5C1A4 /* FLNiceSpinner */,
+				F7E608BED3F3AF375564DE1E1163B43F /* FLNiceSpinner */,
 				72D73185BCE4410CB5EC237743130138 /* Pods-FLNiceSpinner_Example */,
 				CBA3DCAF241B6B82AB9EBD6CE2F7ECF7 /* Pods-FLNiceSpinner_Tests */,
 			);
 		};
 /* End PBXProject section */
 
+/* Begin PBXResourcesBuildPhase section */
+		5644B302890A0E8034D495DD48B9F082 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5DF32B67529B2041A2AB9714037E394B /* FLNiceSpinner.bundle in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
+		132FE6A20B3E85AE3CCE5D0050F7FC17 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D83B6D72DDE60EF2B46E9B20F252EFD4 /* FLNiceSpinner-dummy.m in Sources */,
+				FF1A992999A16057F144427819D5D667 /* FLNiceSpinner.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		A947D7189F155C6206962B1B71C29CBD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -378,24 +409,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E461C36B8CEEFC3ED9A1CFC1ECFEAC82 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				E492EE11AE8903A7428F1831D92322B3 /* fl_spinner_icon@2x.png in Sources */,
-				CA88D862F21FEBBD682F6C4CC73D767C /* fl_spinner_icon@3x.png in Sources */,
-				B0A71E03164E1D8EBF790E41A06B7DD9 /* FLNiceSpinner-dummy.m in Sources */,
-				17B5413287DEE8123B9815B9CE07F72D /* FLNiceSpinner.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
 		17D067B745B30F1B37162B9199F30FC5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = FLNiceSpinner;
-			target = 993E0342CAC18A97306B7F9F1FB5C1A4 /* FLNiceSpinner */;
+			target = F7E608BED3F3AF375564DE1E1163B43F /* FLNiceSpinner */;
 			targetProxy = 66150AC49925F7EB2FF023068E143624 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -447,7 +467,9 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
@@ -455,14 +477,20 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"POD_CONFIGURATION_RELEASE=1",
 					"$(inherited)",
@@ -553,6 +581,70 @@
 			};
 			name = Release;
 		};
+		897C133DF4DCEAF849FF21A232627F4D /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1EB9849F69A1889A5E96C39367580A69 /* FLNiceSpinner.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/FLNiceSpinner/FLNiceSpinner-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/FLNiceSpinner/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/FLNiceSpinner/FLNiceSpinner.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = FLNiceSpinner;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		A77D54FFB19C6527D4177B1585BC1D64 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1EB9849F69A1889A5E96C39367580A69 /* FLNiceSpinner.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/FLNiceSpinner/FLNiceSpinner-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/FLNiceSpinner/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/FLNiceSpinner/FLNiceSpinner.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = FLNiceSpinner;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		D596C6A46D4B3F867DB1AFB6F69FBD60 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 64BABE3B5702D1EC3D7467E1D0E19A22 /* Pods-FLNiceSpinner_Example.debug.xcconfig */;
@@ -599,7 +691,9 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
@@ -607,15 +701,21 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"POD_CONFIGURATION_DEBUG=1",
@@ -636,70 +736,6 @@
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
-		};
-		DCC1F260EFA30E3CB69C71A96942729D /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = A873EC324699405F22C491523DFF8F62 /* FLNiceSpinner.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/FLNiceSpinner/FLNiceSpinner-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/FLNiceSpinner/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/FLNiceSpinner/FLNiceSpinner.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = FLNiceSpinner;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		FEFCB65E5A06D4F5D20AC706B76B5418 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = A873EC324699405F22C491523DFF8F62 /* FLNiceSpinner.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/FLNiceSpinner/FLNiceSpinner-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/FLNiceSpinner/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/FLNiceSpinner/FLNiceSpinner.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = FLNiceSpinner;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
@@ -722,20 +758,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6F9CAE9B3EE0C8731000ED2CBE79A0BC /* Build configuration list for PBXNativeTarget "FLNiceSpinner" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				DCC1F260EFA30E3CB69C71A96942729D /* Debug */,
-				FEFCB65E5A06D4F5D20AC706B76B5418 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		986A9BA58AFE703EEE004FBCA2C407AF /* Build configuration list for PBXNativeTarget "Pods-FLNiceSpinner_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				022A7A4C1EFE035DC9CE0C8C02FA02A6 /* Debug */,
 				7F2B5879EC69386BABAFB10EFE8CE816 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EA4320072A3765F75AA27593B168EB8D /* Build configuration list for PBXNativeTarget "FLNiceSpinner" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A77D54FFB19C6527D4177B1585BC1D64 /* Debug */,
+				897C133DF4DCEAF849FF21A232627F4D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

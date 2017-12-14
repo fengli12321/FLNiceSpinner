@@ -58,7 +58,7 @@
                                                 <state key="normal" title="Button"/>
                                             </button>
                                         </subviews>
-                                        <color key="backgroundColor" red="1" green="0.091319580489999996" blue="0.086543088719999994" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <color key="backgroundColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.93725490199999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <constraints>
                                             <constraint firstAttribute="trailing" secondItem="poq-cQ-xK1" secondAttribute="trailing" constant="20" id="6Yl-Kg-aj3"/>
                                             <constraint firstItem="4EB-Kq-doH" firstAttribute="leading" secondItem="OVF-xj-oFP" secondAttribute="leading" id="8B7-n6-Z9X"/>
@@ -114,7 +114,7 @@
                                                 <state key="normal" title="Button"/>
                                             </button>
                                         </subviews>
-                                        <color key="backgroundColor" red="0.0" green="0.99143940210000003" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <color key="backgroundColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.93725490199999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <constraints>
                                             <constraint firstItem="2od-e7-fid" firstAttribute="centerY" secondItem="sJp-sD-nto" secondAttribute="centerY" id="2IS-8h-gqJ"/>
                                             <constraint firstItem="1pM-4R-He6" firstAttribute="leading" secondItem="umw-sp-oku" secondAttribute="leading" constant="20" id="50w-fU-o5q"/>
@@ -170,7 +170,7 @@
                                                 <state key="normal" title="Button"/>
                                             </button>
                                         </subviews>
-                                        <color key="backgroundColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <color key="backgroundColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.93725490199999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <constraints>
                                             <constraint firstAttribute="trailing" secondItem="6j0-Aj-a3s" secondAttribute="trailing" constant="20" id="0yz-LC-JjN"/>
                                             <constraint firstItem="O3I-sM-hTD" firstAttribute="trailing" secondItem="6j0-Aj-a3s" secondAttribute="trailing" id="794-xE-YWe"/>
@@ -193,7 +193,7 @@
                                         </constraints>
                                     </view>
                                 </subviews>
-                                <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="backgroundColor" red="0.8784313725490196" green="0.8784313725490196" blue="0.8784313725490196" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="bottom" secondItem="a0E-Lv-yIX" secondAttribute="bottom" id="22z-Dl-VQh"/>
                                     <constraint firstItem="a0E-Lv-yIX" firstAttribute="top" secondItem="umw-sp-oku" secondAttribute="bottom" constant="10" id="2vn-c3-Fam"/>
